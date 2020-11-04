@@ -1,0 +1,11 @@
+body {
+    background-color: lightgray;
+}
+
+#hidden-checkbox-1 {
+    visibility: hidden;
+}
+
+[id='hidden-checkbox-1']:checked + label {
+    color: #e2264d;
+  }
