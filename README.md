@@ -9,3 +9,7 @@ Inspired by [this](https://github.com/you-dont-need/You-Dont-Need-JavaScript#twi
 ### String templating & dynamic HTML generation in JS
 
 https://jsfiddle.net/bfpywejs/
+
+## More exercices
+
+You can find more exercice [there](https://shorturl.at/ikrv5)
