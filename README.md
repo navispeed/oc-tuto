@@ -12,4 +12,4 @@ https://jsfiddle.net/bfpywejs/
 
 ## More exercices
 
-You can find more exercice [there](https://shorturl.at/ikrv5)
+You can find more exercices [there]([https://shorturl.at/ikrv5](https://docs.google.com/spreadsheets/d/1q3jdK3VX43o4CXUiPJrz8X7kELs6BVUZc6PX5vXb1YI/edit?usp=sharing))
